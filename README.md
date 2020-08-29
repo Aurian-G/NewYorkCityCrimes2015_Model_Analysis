@@ -7,7 +7,7 @@
 ## Data Description and Importance  
 
 
-## Data Dictionary  
+<span style="font-size:80%">## Data Dictionary</span>  
 Variable Type	Description  
 CMPLNT_NUM	-	Randomly generated persistent ID for each complaint   
 CMPLNT_FR_DT	-	Exact date of occurrence for the reported event (or starting date of occurrence, if CMPLNT_TO_DT exists)  
