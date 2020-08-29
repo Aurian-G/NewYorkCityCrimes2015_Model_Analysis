@@ -1,11 +1,13 @@
 # NewYorkCityCrimes2015  
 
 
-##Summary  
+<span style="font-size:80%">## Data Purpose</span>  
 
-##Data Description  
 
-##Data Dictionary  
+## Data Description and Importance  
+
+
+## Data Dictionary  
 Variable Type	Description  
 CMPLNT_NUM	-	Randomly generated persistent ID for each complaint   
 CMPLNT_FR_DT	-	Exact date of occurrence for the reported event (or starting date of occurrence, if CMPLNT_TO_DT exists)  
